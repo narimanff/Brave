@@ -1,0 +1,228 @@
+header ,.navbar navbar-light bg-light{
+    background: url(../images/back.jpg) no-repeat ;
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+        
+}
+header a{
+    color: #fff;
+}
+button.btn.btn-outline-success.my-2.my-sm-0{
+        background-color: transparent;
+        color: #fff;
+    border: solid 2px #fff;
+    border-radius: 40px;
+}
+.main {
+    color: #fff;
+   
+    top: 350px;
+    bottom: 250px;
+ left: 100px;
+    text-align: center;
+  
+}
+.btn-primary{
+    background: #db7428;
+    border-radius: 40px;
+    border:#eee;
+    padding:  3px 15px;
+    margin-right: 35px
+}
+
+.main  a:hover{
+
+    background:  #beb5b5;
+    border-radius: 40px;
+    padding:7px  15px ;
+    
+}
+.main a{
+    text-decoration: none;
+}
+.sec1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.sec1 img{
+    margin-bottom: 20px;
+}
+.sec1 p{
+    font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-size: 20px;
+    color: #7c7c7c!important;
+    line-height: 1.8em;
+    text-align: center;
+    margin: auto;
+}
+.sec1 span{
+color: #fb542b}
+.sec2 h4{
+    font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #ff4530!important;
+    letter-spacing: 2px;
+}
+.sec2 h2{
+        font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+.sec2 p{
+    color: #8e8e8e;
+    line-height: 1.\;
+}
+.sec2 span ,.sec2 a{
+    color: #fb542b
+    
+} 
+.sec2 {
+    margin-bottom: 100px;
+}
+.sec2 img{
+    margin-top: 0px;
+    
+}
+.sec3 h4{
+    font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #ff4530!important;
+    letter-spacing: 2px;
+}
+.sec3 h2{
+        font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+.sec3 p{
+    color: #8e8e8e;
+    line-height: 1.\;
+}
+.sec3 span ,.sec3 a{
+    color: #fb542b
+    
+} 
+.sec3 {
+    margin-bottom: 100px;
+}
+.sec3 img{
+    margin-top: 0px;
+    
+}.sec4 h4{
+    font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #ff4530!important;
+    letter-spacing: 2px;
+}
+.sec4 h2{
+        font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+.sec4 p{
+    color: #8e8e8e;
+    line-height: 1.\;
+}
+.sec4 span ,.sec4 a{
+    color: #fb542b
+    
+} 
+.sec4{
+    margin-bottom: 100px;
+}
+.sec4 img{
+    margin-top: 0px;
+    
+}.sec5 h4{
+    font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #ff4530!important;
+    letter-spacing: 2px;
+}
+.sec5 h2{
+        font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+.sec5 p{
+    color: #8e8e8e;
+    line-height: 1.\;
+}
+.sec5 span ,.sec5 a{
+    color: #fb542b
+    
+} 
+.sec5{
+    margin-bottom: 100px;
+}
+.sec5 img{
+    margin-top: 0px;
+    
+}
+.sec6 h4{
+    font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #ff4530!important;
+    letter-spacing: 2px;
+}
+.sec6 h2{
+        font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+.sec6 p{
+    color: #8e8e8e;
+    line-height: 1.\;
+}
+.sec6 span ,.sec2 a{
+    color: #fb542b
+    
+} 
+.sec6 {
+    margin-bottom: 100px;
+}
+.sec6 img{
+    margin-top: 0px;
+    
+}
+footer{
+    background: #000;
+
+    
+}
+footer a {
+    display: block;
+    color: #8e8e8e;
+    
+}
+footer h2{
+    font-size: 20px;
+    color: #fff;
+     font-family: 'Muli',Helvetica,Arial,Lucida,sans-serif;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    
+}
+
+.form-inline .form-control{
+    margin-bottom: 20px;
+}
+button.btn.btn-outline-success.my-2.my-sm-0{
+    background: #fb542b;
+    border-radius: 40px;
+    padding: 2px 35px;
+    border: transparent;
+   
+}
